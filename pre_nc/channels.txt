@@ -1,0 +1,6 @@
+u10
+v10
+d2m
+t2m
+sst
+sp
