@@ -1,0 +1,41 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+dataset/
+data/
+nc dataset/
+pre_nc/
+pre_nc_test/
+test nc dataset/
+era5/
+
+# Large NumPy files
+*.npy
+
+# Large model files
+*.pth
+*.pt
+*.h5
+*.hdf5
+
+# Large archives
+*.zip
+*.tar
+*.tar.gz
+
+# Generated HTML
+*.html
+
+# Generated images
+*_map.png
+prediction_heatmap.png
+prediction_histogram.png
+
+# OS files
+.DS_Store
+Thumbs.db
